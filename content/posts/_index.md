@@ -4,4 +4,4 @@ title = "Pages"
 date = "2023-12-30"
 +++
 
-# Hi!
+Hello there, this is the pages page.
