@@ -2,6 +2,7 @@
 author = "David Ko"
 title = "YNAB Credit Card confusion"
 date = "2024-1-3"
+toc = false
 +++
 
 Working with credit cards in YNAB is one of the single most confusing things for someone who's
